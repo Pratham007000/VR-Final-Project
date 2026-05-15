@@ -1,0 +1,14 @@
+torch>=2.0
+torchvision
+transformers>=4.30
+open-clip-torch
+ultralytics
+faiss-gpu-cu12
+streamlit
+Pillow
+pandas
+numpy
+scikit-learn
+tqdm
+matplotlib
+accelerate
